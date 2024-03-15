@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.4.0",
-    "es6-shim": "^0.35.5"
+    "es6-shim": "^0.35.5",
+    "mqtt": "^5.4.0"
   }
 }
